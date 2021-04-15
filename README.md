@@ -20,4 +20,7 @@ email
 # Erro de Auth:
 https://www.google.com/settings/security/lesssecureapps
 
-Acesso a app menos seguro
+Acesso a app menos seguro.
+
+# 2.0:
+Pega de todas a paginas do site.
