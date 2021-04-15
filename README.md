@@ -9,3 +9,10 @@ subject = ''
 body = ""
 filename = ''
 search=""
+
+# Bibliotecas usadas:
+requests
+lxml
+openpyxl
+smtplib
+email
