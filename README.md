@@ -23,4 +23,4 @@ https://www.google.com/settings/security/lesssecureapps
 Acesso a app menos seguro.
 
 # 2.0:
-Pega de todas a paginas do site.
+Pega de todas as paginas do site.
