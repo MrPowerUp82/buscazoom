@@ -16,3 +16,8 @@ lxml
 openpyxl
 smtplib
 email
+
+# Erro de Auth:
+https://www.google.com/settings/security/lesssecureapps
+
+Acesso a app menos seguro
